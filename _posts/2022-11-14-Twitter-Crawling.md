@@ -77,3 +77,9 @@ output {
   stdout { }
 }
 ```
+
+## Python 로그 결과
+![Python Log](/assets/img/twitter/logstash_python_log.png)
+
+## Logstash 로그 결과
+![Python Log](/assets/img/twitter/logstash_log.png)
