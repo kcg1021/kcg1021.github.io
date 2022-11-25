@@ -4,7 +4,6 @@ author: Kim Chae Gyu
 date: 2022-11-14 09:16:00 +0800
 categories: [전공심화]
 tags: [Python, Twitter, Elastic, logstash]
-img_path: /assets/img/twitter/
 ---
 
 아래의 결과를 확인 하기 위해서는 로그스태시와 파이선을 동시에 실행을 시켜주어야 한다.
@@ -79,9 +78,9 @@ output {
 ## Python 로그 결과
 ---
 
-![Python Log](logstash_python_log.png)
+![Python Log](/assets/img/twitter/logstash_python_log.png)
 
 ## Logstash 로그 결과
 ---
 
-![Python Log](logstash_log.png)
+![Python Log](/assets/img/twitter/logstash_log.png)
