@@ -78,9 +78,9 @@ output {
 ## Python 로그 결과
 ---
 
-![Python Log](/assets/img/twitter/logstash_python_log.png)
+![Python Log](https://media.discordapp.net/attachments/1045516878161903666/1045516930984984687/logstash_python.PNG)
 
 ## Logstash 로그 결과
 ---
 
-![Python Log](/assets/img/twitter/logstash_log.png)
+![Python Log](https://media.discordapp.net/attachments/1045516878161903666/1045516931312136222/logstash_log.PNG)
